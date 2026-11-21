@@ -13,11 +13,11 @@
 			"txt": "TEST",
 			"repeat": true,
 			"requirement": "open.setting",
-			"show": true,
+			"show": false,
 		"number": 3,
 			"text": "TEST2",
 			"repeat": true,
 			"requirement": "app_version",
-			"show": true
+			"show": false
 	}
 }
