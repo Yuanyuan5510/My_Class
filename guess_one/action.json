@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"app_version": 1.0.4,
+	"announcement": false,
+		"text": "",
+	"show"{
+		"number": 1,
+			"txt": "Nice to meet you",
+			"repeat": false,
+			"requirement": "first",
+			"show": true,
+		"number": 2,
+			"txt": "TEST",
+			"repeat": true,
+			"requirement": "open.setting",
+			"show": true,
+		"number": 3,
+			"text": "TEST2",
+			"repeat": true,
+			"requirement": "app_version",
+			"show": true
+	}
+}
